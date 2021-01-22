@@ -12,6 +12,8 @@ console.log(result);
 
 
 // Problem-2
+
+
 function budgetCalculator(clock, phone, laptop) {
 
     var clockPrice = clock * 50;
@@ -28,6 +30,7 @@ console.log(totalCost);
 
 
 // problem-4
+
 
 const friends = 'Robin Foyej Emon Julkarnain';
 
